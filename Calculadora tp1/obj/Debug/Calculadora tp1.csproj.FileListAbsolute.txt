@@ -1,0 +1,18 @@
+F:\facultad\Campos.Macarena\Calculadora tp1\bin\Debug\Calculadora tp1.exe.config
+F:\facultad\Campos.Macarena\Calculadora tp1\bin\Debug\Calculadora tp1.exe
+F:\facultad\Campos.Macarena\Calculadora tp1\bin\Debug\Calculadora tp1.pdb
+F:\facultad\Campos.Macarena\Calculadora tp1\obj\Debug\Calculadora tp1.csprojResolveAssemblyReference.cache
+F:\facultad\Campos.Macarena\Calculadora tp1\obj\Debug\Calculadora_tp1.Form1.resources
+F:\facultad\Campos.Macarena\Calculadora tp1\obj\Debug\Calculadora_tp1.Properties.Resources.resources
+F:\facultad\Campos.Macarena\Calculadora tp1\obj\Debug\Calculadora tp1.csproj.GenerateResource.Cache
+F:\facultad\Campos.Macarena\Calculadora tp1\obj\Debug\Calculadora tp1.exe
+F:\facultad\Campos.Macarena\Calculadora tp1\obj\Debug\Calculadora tp1.pdb
+C:\Users\Macarena\Documents\facultad\Campos.Macarena\Calculadora tp1\bin\Debug\Calculadora tp1.exe.config
+C:\Users\Macarena\Documents\facultad\Campos.Macarena\Calculadora tp1\obj\Debug\Calculadora tp1.exe
+C:\Users\Macarena\Documents\facultad\Campos.Macarena\Calculadora tp1\obj\Debug\Calculadora tp1.pdb
+C:\Users\Macarena\Documents\facultad\Campos.Macarena\Calculadora tp1\bin\Debug\Calculadora tp1.exe
+C:\Users\Macarena\Documents\facultad\Campos.Macarena\Calculadora tp1\bin\Debug\Calculadora tp1.pdb
+C:\Users\Macarena\Documents\facultad\Campos.Macarena\Calculadora tp1\obj\Debug\Calculadora tp1.csprojResolveAssemblyReference.cache
+C:\Users\Macarena\Documents\facultad\Campos.Macarena\Calculadora tp1\obj\Debug\Calculadora_tp1.Form1.resources
+C:\Users\Macarena\Documents\facultad\Campos.Macarena\Calculadora tp1\obj\Debug\Calculadora_tp1.Properties.Resources.resources
+C:\Users\Macarena\Documents\facultad\Campos.Macarena\Calculadora tp1\obj\Debug\Calculadora tp1.csproj.GenerateResource.Cache
