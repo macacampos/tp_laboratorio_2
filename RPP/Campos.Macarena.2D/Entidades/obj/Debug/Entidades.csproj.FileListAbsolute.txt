@@ -1,0 +1,10 @@
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Campos.Macarena.2D\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Campos.Macarena.2D\Entidades\bin\Debug\Entidades.dll
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Campos.Macarena.2D\Entidades\bin\Debug\Entidades.pdb
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Campos.Macarena.2D\Entidades\obj\Debug\Entidades.dll
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Campos.Macarena.2D\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Macarena\Desktop\Campos.Macarena.2D rec\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Macarena\Desktop\Campos.Macarena.2D rec\Entidades\obj\Debug\Entidades.dll
+C:\Users\Macarena\Desktop\Campos.Macarena.2D rec\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Macarena\Desktop\Campos.Macarena.2D rec\Entidades\bin\Debug\Entidades.dll
+C:\Users\Macarena\Desktop\Campos.Macarena.2D rec\Entidades\bin\Debug\Entidades.pdb
